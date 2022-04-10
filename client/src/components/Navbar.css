@@ -1,0 +1,17 @@
+header {
+    background: rgb(221, 221, 221);
+}
+.header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+}
+.header__wrapper menu ul {
+    display: flex;
+
+}
+.header__wrapper menu li + li {
+    margin-left: 2rem;
+}
+

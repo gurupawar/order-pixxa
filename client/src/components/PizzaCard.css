@@ -1,0 +1,28 @@
+
+
+.pizza__name {
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.card img {
+    margin: 1rem 0;
+}
+
+.card__middle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pizza__varient label, .pizza__quantity label {
+    display: block;
+}
+
+.card__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
