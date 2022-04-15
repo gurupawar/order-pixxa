@@ -1,4 +1,6 @@
-
+.card {
+    cursor: pointer;
+}
 
 .pizza__name {
     text-align: center;
@@ -16,7 +18,7 @@
     justify-content: space-between;
 }
 
-.pizza__varient label, .pizza__quantity label {
+.pizza__variants label, .pizza__quantity label {
     display: block;
 }
 

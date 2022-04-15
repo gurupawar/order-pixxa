@@ -1,7 +1,7 @@
 const pizzas = [
   {
     name: "PEPPER BARBECUE CHICKEN",
-    varients: ["small", "medium", "large"],
+    variants: ["small", "medium", "large"],
     prices: [
       {
         small: 200,
@@ -16,7 +16,7 @@ const pizzas = [
   },
   {
     name: "PEPPER BARBECUE CHICKEN",
-    varients: ["small", "medium", "large"],
+    variants: ["small", "medium", "large"],
     prices: [
       {
         small: 200,
@@ -31,7 +31,7 @@ const pizzas = [
   },
   {
     name: "PEPPER BARBECUE CHICKEN",
-    varients: ["small", "medium", "large"],
+    variants: ["small", "medium", "large"],
     prices: [
       {
         small: 200,
